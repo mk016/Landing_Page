@@ -1,0 +1,160 @@
+.home1,
+.logo1 {
+  position: absolute;
+}
+.logo1 {
+  top: 25px;
+  left: 64px;
+  font-size: var(--font-size-17xl);
+}
+.home1 {
+  top: 0;
+  left: 0;
+}
+.contact1,
+.illustrations1 {
+  position: absolute;
+  top: 0;
+  left: 103px;
+  font-weight: 500;
+}
+.contact1 {
+  left: 248px;
+}
+.home-group {
+  position: absolute;
+  top: 35px;
+  left: 446px;
+  width: 305px;
+  height: 19px;
+  color: var(--color-black);
+}
+.sign-up2 {
+  position: absolute;
+  top: 11px;
+  left: 36px;
+}
+.sign-in-container,
+.sign-up-frame {
+  top: 24px;
+  border-radius: var(--br-8xs);
+  width: 127px;
+  height: 41px;
+}
+.sign-up-frame {
+  position: absolute;
+  left: 866px;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-mediumslateblue-100);
+  box-sizing: border-box;
+  overflow: hidden;
+  color: var(--color-mediumslateblue-300);
+}
+.sign-in-container {
+  left: 1021px;
+  background-color: var(--color-mediumslateblue-300);
+  color: var(--color-white);
+}
+.logo-group,
+.saly-1-icon1,
+.sign-in-container {
+  position: absolute;
+  overflow: hidden;
+}
+.logo-group {
+  top: 21px;
+  left: 52px;
+  border-radius: var(--br-xs);
+  background-color: var(--color-gray-100);
+  width: 1196px;
+  height: 83px;
+}
+.saly-1-icon1 {
+  height: 121.41%;
+  width: 81.3%;
+  top: -6.25%;
+  right: -10.21%;
+  bottom: -15.16%;
+  left: 28.91%;
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: contain;
+}
+.make-your1 {
+  color: var(--color-gray-200);
+}
+.business1 {
+  color: var(--color-mediumslateblue-200);
+}
+.make-your-business1 {
+  margin: 0;
+}
+.make-your-business-container1 {
+  position: absolute;
+  top: 266px;
+  left: 47px;
+  font-size: var(--font-size-45xl);
+}
+.email1 {
+  position: absolute;
+  top: 16px;
+  left: 22px;
+}
+.email-container,
+.frame-div {
+  position: absolute;
+  overflow: hidden;
+}
+.email-container {
+  top: 587px;
+  left: 47px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-dodgerblue);
+  box-sizing: border-box;
+  width: 475px;
+  height: 50px;
+  color: var(--color-darkgray);
+  color: black;
+
+
+}
+.frame-div {
+  top: 660px;
+  left: 52px;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-mediumslateblue-400);
+  width: 127px;
+  height: 41px;
+  color: var(--color-white);
+}
+.mk0161,
+.we-provide-the1 {
+  position: absolute;
+  color: var(--color-black);
+}
+.we-provide-the1 {
+  top: 453px;
+  left: 52px;
+  font-size: var(--font-size-5xl);
+  display: inline-block;
+  width: 552px;
+  height: 26px;
+}
+.mk0161 {
+  top: 750px;
+  left: 596px;
+  font-size: var(--font-size-smi);
+  font-weight: 300;
+}
+.macbook-air-11 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-lightskyblue);
+  height: 785px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-gray-200);
+  font-family: var(--font-roboto);
+}
