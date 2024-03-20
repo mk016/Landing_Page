@@ -4,7 +4,7 @@ const MacBookAir = () => {
   return (
     <div className="macbook-air-11">
       <div className="logo-group">
-        <b className="logo1">LOGO</b>
+        <b className="logo1">PAGE</b>
         <div className="home-group">
           <b className="home1">Home</b>
           <div className="illustrations1">Illustrations</div>
