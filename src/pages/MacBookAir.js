@@ -31,9 +31,14 @@ const MacBookAir = () => {
         <b className="sign-up2">Sign up</b>
       </div>
       <div className="we-provide-the1">
-        This is My First React landing Page
+        This is My First React landing Page , developed by {"@mk016"}
       </div>
-      <div className="mk0161">@mk016</div>
+      <div className="mk0161">
+        
+        <a href="https://github.com/mk016" target="_blank">
+          @mk016
+        </a>
+      </div>
     </div>
   );
 };
