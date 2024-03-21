@@ -7,7 +7,7 @@ const MacBookAir = () => {
         <b className="logo1">PAGE</b>
         <div className="home-group">
           <b className="home1">Home</b>
-          <div className="illustrations1">Illustrations</div>
+          <div className="illustrations1">About</div>
           <div className="contact1">Contact</div>
         </div>
         <div className="sign-up-frame">
